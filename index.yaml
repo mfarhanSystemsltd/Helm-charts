@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ace-deployment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-18T09:33:21.224067965Z"
+    description: A Helm chart for Kubernetes
+    digest: 98e09cee0b0a7bc235c00d4317e7ff96ea842aa5d00731df2cd385b553f9f3d6
+    name: ace-deployment
+    type: application
+    urls:
+    - charts/ace-deployment-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-18T09:33:21.223207532Z"
